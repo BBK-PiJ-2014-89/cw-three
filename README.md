@@ -2,6 +2,8 @@ Running the Ray Tracer
 =====================
 
 SDP - coursework three
+By:
+Rustam Drake
 
 
 This is an SBT project so you will need a running version of SBT for this to work
