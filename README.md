@@ -2,7 +2,9 @@ Running the Ray Tracer
 =====================
 
 SDP - coursework three
+
 By:
+
 Rustam Drake
 
 
