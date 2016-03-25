@@ -1,6 +1,9 @@
 Running the Ray Tracer
 =====================
 
+SDP - coursework three
+
+
 This is an SBT project so you will need a running version of SBT for this to work
 you can run it directly from the CLI by typing in 
 ``` sbt "run-main Tracer output.png" ```
